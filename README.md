@@ -1,2 +1,2 @@
-### resume
-created a resume with node
+### Resume
+created a resume with json
