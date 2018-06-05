@@ -1,3 +1,21 @@
 {
-    "name": "marissa"
-}
+    "name": "Marissa Wood",
+    "website": "https://marissawood.github.io",
+    "linkedin": "https://www.linkedin.com/in/marissa-wood-62420371",
+    "email": "marissa.espina@gmail.com",
+    "proficient-technolgies": [
+      "html",
+      "css",
+      "javascript",
+      "node",
+      "react",
+      "angular",
+      "sql",
+      "mongodb"
+    ],
+    "other-skills": [
+      "teaching",
+      "yoga",
+      "DJ"
+    ]
+  }
